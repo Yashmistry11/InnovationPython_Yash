@@ -1,4 +1,4 @@
 x=15
-y=20
+y=200
 sum= x+y
-print=("The sum is ",sum)
+print=("The sum is ", sum)
